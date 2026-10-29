@@ -1,0 +1,6 @@
+{
+  "summary":  "Plan de implementación para la plataforma de resúmenes médicos estructurados y Active Recall con análisis de PDF mediante Gemini API, tablas de preguntas clínicas con respuestas justificadas ocultables, modo examen con temporizador y puntuación, y exportación a Anki CSV y PDF imprimible.",
+  "updatedAt":  "2026-10-28T23:02:45.900353115Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

@@ -1,0 +1,6 @@
+{
+  "name": "MedRecall - Resúmenes Clínicos y Active Recall",
+  "description": "Plataforma de resúmenes médicos estructurados a partir de PDFs con tablas interactivas de Active Recall, preguntas clínicas justificadas, modo examen y exportación a Anki.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
